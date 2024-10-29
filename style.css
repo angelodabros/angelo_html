@@ -1,9 +1,10 @@
 <header>{ 
 margin:50px ;
 background-color: blue;
+
 padding: 10px ;
-border: 5px;
-justify-content: ;
+border: 5px ;
+justify-content: 
  }
 
 body{
@@ -13,7 +14,7 @@ color: black;
 
 section
 {background-color: blanchedalmond;}
-{margin:50px   ;
+{margin:50px ;
 display: flex;
  }
 
