@@ -8,3 +8,9 @@ body{
 background-color: black;
 color: black;
 }
+
+section
+{background-color: blanchedalmond;}
+{margin:50px   ;
+display: flex;
+ }
