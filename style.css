@@ -1,6 +1,21 @@
 header{ 
+
 margin:50 px ;
-background-color: #6720FA;
+
+
+background-color: #fa20b115;
+
+<section>{ 
+  background-attachment: fixed;
+  padding: top 58 px;
+  display:flex;      }
+.primeirachamada{                                                                  
+    margin-right: 5% ;
+}
+
+
+
+
 border:solid 3 px  rgb(rgb(251, 255, 0), green, blue)
 
 padding: 20 px ;
@@ -20,3 +35,8 @@ display: flex;
  }
 
 
+.ASSISTA MAIS VIDEOS SOBRE TRATOR{
+    display: flex;
+overflow-x: auto;
+gap: 10px;
+}
